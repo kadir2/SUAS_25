@@ -1,0 +1,33 @@
+image,class_name,confidence,center_x,center_y
+image_2.jpg,kite,0.664,2928,519
+image_2.jpg,tennis racket,0.527,797,1194
+image_6.jpg,toothbrush,0.312,1518,640
+image_5.jpg,person,0.269,2263,1121
+image_1.jpg,tennis racket,0.261,2508,1190
+image_4.jpg,sports ball,0.214,1176,1331
+image_6.jpg,airplane,0.175,2389,1726
+image_6.jpg,chair,0.153,1227,1701
+image_4.jpg,traffic light,0.147,2191,1592
+image_3.jpg,kite,0.117,1865,413
+image_1.jpg,sports ball,0.089,3192,1159
+image_6.jpg,cell phone,0.082,2388,1774
+image_1.jpg,frisbee,0.075,554,1524
+image_5.jpg,airplane,0.07,2262,1121
+image_6.jpg,kite,0.056,1427,1279
+image_4.jpg,kite,0.048,3463,641
+image_5.jpg,baseball bat,0.033,1196,382
+image_5.jpg,sports ball,0.03,1193,378
+image_4.jpg,tennis racket,0.028,1212,1359
+image_2.jpg,baseball glove,0.025,2925,517
+image_5.jpg,tennis racket,0.022,2426,1294
+image_3.jpg,sports ball,0.02,1511,1755
+image_1.jpg,kite,0.02,3192,1153
+image_5.jpg,frisbee,0.019,1196,381
+image_1.jpg,car,0.019,2607,1907
+image_3.jpg,traffic light,0.017,1792,660
+image_1.jpg,traffic light,0.017,3192,1153
+image_2.jpg,sports ball,0.015,837,1191
+image_1.jpg,stop sign,0.015,2507,1183
+image_6.jpg,sports ball,0.015,1359,1405
+image_6.jpg,scissors,0.011,2482,1728
+image_6.jpg,laptop,0.01,2483,1725

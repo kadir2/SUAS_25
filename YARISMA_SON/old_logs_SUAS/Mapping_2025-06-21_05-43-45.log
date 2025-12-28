@@ -1,0 +1,10 @@
+2025-06-21 00:32:48,561 - Mapping - DEBUG - Waiting for 'start_mapping' signal...
+2025-06-21 00:32:48,562 - Mapping - DEBUG - Monitoring directory: images15 for mapping images...
+2025-06-21 00:37:14,983 - Mapping - DEBUG - Yeni mapping resmi bulundu: images15/image_1.jpg (1/6)
+2025-06-21 00:37:27,507 - Mapping - DEBUG - Yeni mapping resmi bulundu: images15/image_2.jpg (2/6)
+2025-06-21 00:37:41,532 - Mapping - DEBUG - Yeni mapping resmi bulundu: images15/image_3.jpg (3/6)
+2025-06-21 00:37:58,058 - Mapping - DEBUG - Yeni mapping resmi bulundu: images15/image_4.jpg (4/6)
+2025-06-21 00:38:14,585 - Mapping - DEBUG - Yeni mapping resmi bulundu: images15/image_5.jpg (5/6)
+2025-06-21 00:38:29,610 - Mapping - DEBUG - Yeni mapping resmi bulundu: images15/image_6.jpg (6/6)
+2025-06-21 00:38:30,111 - Mapping - DEBUG - Tüm mapping resimleri toplandı.
+2025-06-21 00:38:30,111 - Mapping - DEBUG - Waiting for 'ip_done' signal...

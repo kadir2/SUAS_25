@@ -1,0 +1,18 @@
+2025-06-23 19:08:05,288 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-23 19:08:06,140 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-23 19:08:06,142 - Image_Processor - DEBUG - Watching images21 for up to 6 new images...
+2025-06-23 19:08:10,653 - Image_Processor - DEBUG - Processing image (tiled): images21/image_1.jpg
+2025-06-23 19:08:14,443 - Image_Processor - DEBUG - Processed images21/image_1.jpg (1/6)
+2025-06-23 19:08:14,444 - Image_Processor - DEBUG - Processing image (tiled): images21/image_2.jpg
+2025-06-23 19:08:14,901 - Image_Processor - DEBUG - Processed images21/image_2.jpg (2/6)
+2025-06-23 19:08:14,901 - Image_Processor - DEBUG - Processing image (tiled): images21/image_3.jpg
+2025-06-23 19:08:15,314 - Image_Processor - DEBUG - Processed images21/image_3.jpg (3/6)
+2025-06-23 19:08:15,314 - Image_Processor - DEBUG - Processing image (tiled): images21/image_4.jpg
+2025-06-23 19:08:15,716 - Image_Processor - DEBUG - Processed images21/image_4.jpg (4/6)
+2025-06-23 19:08:15,716 - Image_Processor - DEBUG - Processing image (tiled): images21/image_6.jpg
+2025-06-23 19:08:16,078 - Image_Processor - DEBUG - Processed images21/image_6.jpg (5/6)
+2025-06-23 19:09:28,249 - Image_Processor - DEBUG - Processing image (tiled): images21/image_1 (1).jpg
+2025-06-23 19:09:28,592 - Image_Processor - DEBUG - Processed images21/image_1 (1).jpg (6/6)
+2025-06-23 19:09:29,093 - Image_Processor - DEBUG - All 6 images processed.
+2025-06-23 19:09:29,097 - Image_Processor - INFO - Toplam 7 obje tespit edildi.
+2025-06-23 19:09:29,106 - Image_Processor - DEBUG - Saved detection_file21.csv

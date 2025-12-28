@@ -1,0 +1,4 @@
+image,class_name,confidence,center_x,center_y
+image_2.jpg,stop sign,0.903,1552,1111
+image_5.jpg,airplane,0.112,1511,995
+image_3.jpg,tennis racket,0.069,1913,1548

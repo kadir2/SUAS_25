@@ -1,0 +1,274 @@
+{  
+"Runway1": {
+  "1": {
+    "Latitude": 38.31557348097785,
+    "Longitude": -76.5509513259049
+  },
+  "2": {
+    "Latitude": 38.31560817731452,
+    "Longitude": -76.55116435901238
+  },
+  "3": {
+    "Latitude": 38.31564440263330,
+    "Longitude": -76.55137507329172
+  },
+  "4": {
+    "Latitude": 38.31567938521003,
+    "Longitude": -76.55158622607875
+  },
+  "5": {
+    "Latitude": 38.31571435470956,
+    "Longitude": -76.55179691963721
+  },
+  "6": {
+    "Latitude": 38.31575069878768,
+    "Longitude": -76.55201054737731
+  },
+  "7": {
+    "Latitude": 38.31578385349703,
+    "Longitude": -76.55222525898093
+  },
+  "8": {
+    "Latitude": 38.31581939204895,
+    "Longitude": -76.55243395291873
+  },
+  "9": {
+    "Latitude": 38.31574234263149,
+    "Longitude": -76.55245222689150
+  },
+  "10": {
+    "Latitude": 38.31570682687985,
+    "Longitude": -76.55223922737967
+  },
+  "11": {
+    "Latitude": 38.31567265797094,
+    "Longitude": -76.55202860402936
+  },
+  "12": {
+    "Latitude": 38.31563718929785,
+    "Longitude": -76.55181406163257
+  },
+  "13": {
+    "Latitude": 38.31560224368901,
+    "Longitude": -76.55160368740516
+  },
+  "14": {
+    "Latitude": 38.31556731604685,
+    "Longitude": -76.55139126620597
+  },
+  "15": {
+    "Latitude": 38.31553054973008,
+    "Longitude": -76.55117717504854
+  },
+  "16": {
+    "Latitude": 38.31549561648267,
+    "Longitude": -76.55096232071230
+  }
+},
+  
+  
+  
+
+
+
+
+"Runway2": {
+"1": {
+  "Latitude": 38.3146700337378,
+  "Longitude": -76.5456964457083
+},
+"2": {
+  "Latitude": 38.3146359841405,
+  "Longitude": -76.5454841405931
+},
+"3": {
+  "Latitude": 38.3145993630285,
+  "Longitude": -76.5452723913296
+},
+"4": {
+  "Latitude": 38.3145597447217,
+  "Longitude": -76.5450579171839
+},
+"5": {
+  "Latitude": 38.3145260585562,
+  "Longitude": -76.5448509271161
+},
+"6": {
+  "Latitude": 38.3144893326757,
+  "Longitude": -76.5446377073794
+},
+"7": {
+  "Latitude": 38.3144525425491,
+  "Longitude": -76.5444275289572
+},
+"8": {
+  "Latitude": 38.3144141518856,
+  "Longitude": -76.5442141554919
+},
+"9": {
+  "Latitude": 38.3143347763190,
+  "Longitude": -76.5442377421205
+},
+"10": {
+  "Latitude": 38.3143704031094,
+  "Longitude": -76.5444499302188
+},
+"11": {
+  "Latitude": 38.3144060494930,
+  "Longitude": -76.5446625600111
+},
+"12": {
+  "Latitude": 38.3144420808602,
+  "Longitude": -76.5448749536163
+},
+"13": {
+  "Latitude": 38.3144763738385,
+  "Longitude": -76.5450861470793
+},
+"14": {
+  "Latitude": 38.3145131690178,
+  "Longitude": -76.5452986775506
+},
+"15": {
+  "Latitude": 38.3145486724593,
+  "Longitude": -76.5455111503570
+},
+"16": {
+  "Latitude": 38.3145843293001,
+  "Longitude": -76.5457225585404
+}
+},
+
+
+
+
+
+"Sicis_Points1": {
+  "1": {
+      "Latitude": 38.31576253978390,
+      "Longitude": -76.55233372201741
+    },
+    "2": {
+      "Latitude": 38.31569119810524,
+      "Longitude": -76.55191247076326
+    },
+    "3": {
+      "Latitude": 38.31562044056574,
+      "Longitude": -76.55149100612550
+    },
+    "4": {
+      "Latitude": 38.31554849313972,
+      "Longitude": -76.55106323160014
+    }
+    },
+
+
+
+
+
+"Sicis_Points2": {
+  "1": {
+      "Latitude": 38.31460809700609,
+      "Longitude": -76.54560850456187
+    },
+    "2": {
+      "Latitude": 38.31453673768942,
+      "Longitude": -76.54518404704199
+    },
+    "3": {
+      "Latitude": 38.31446152008932,
+      "Longitude": -76.54476040316381
+    },
+    "4": {
+      "Latitude": 38.31439249913926,
+      "Longitude": -76.54433718169503
+    }
+  },
+
+
+
+
+
+  "mapping_points1": {
+  "1": {
+    "Latitude": 38.3152450,
+    "Longitude": -76.5488235
+  },
+  "2": {
+    "Latitude": 38.3158824,
+    "Longitude": -76.5525382
+  }
+  },
+
+  
+
+  "mapping_points2": {
+  "1": {
+    "Latitude": 38.3150755,
+    "Longitude": -76.5478602
+  },
+  "2": {
+    "Latitude": 38.3144154,
+    "Longitude": -76.5440905
+  }
+  },
+    
+
+
+  "ObjectServo":
+  {
+      "1":
+      {
+          "Channel":12,
+          "PWM": 1010
+      },
+      "2":
+      {
+          "Channel":12,
+          "PWM": 1350
+      },
+      "3":
+      {
+          "Channel":12,
+          "PWM": 1800
+      },
+      "4":
+      {
+          "Channel":12,
+          "PWM": 1975
+      }
+  },
+
+    "CaptureInfo":
+    {
+        "ev": -2.5,
+        "t":1000
+    },
+    "isSimActivated": false,
+    "SIM_IP" : "127.0.0.1:14551",
+    
+    "WP_SPEED" : 2000,
+    "DROP_SPEED" : 1500,
+    "runway_area": 1,
+    "DropAltitude": 17,
+    "DropDelay" : 26,
+    "DROP_YAW" : 18,
+
+    "image_count": 16,
+    "image_dir": "images",
+    "detection_file": "detection_file",
+    "position_file": "position_data",
+    "image_pattern": "*.jpg",
+    "image_alt":25,
+
+    "counter": "99",
+
+    "mapping_image_count": 16,
+    "mapping_dir": "images",
+    "mapping_pattern": ["*.JPG", "*.png", "*.jpg"],
+    "mapping_alt":107,
+    "mapping_yaw" : 11,
+    "output_image": "mapping_result.jpg"
+ 
+}
+

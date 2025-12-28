@@ -1,0 +1,38 @@
+2025-06-26 18:59:38,338 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-26 18:59:39,436 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-26 19:10:20,416 - Image_Processor - DEBUG - Watching images99 for up to 16 new images...
+2025-06-26 19:10:55,996 - Image_Processor - DEBUG - Processing image (tiled): images99/image_1.jpg
+2025-06-26 19:11:00,340 - Image_Processor - DEBUG - Processed images99/image_1.jpg (1/16)
+2025-06-26 19:11:09,361 - Image_Processor - DEBUG - Processing image (tiled): images99/image_2.jpg
+2025-06-26 19:11:09,736 - Image_Processor - DEBUG - Processed images99/image_2.jpg (2/16)
+2025-06-26 19:11:20,762 - Image_Processor - DEBUG - Processing image (tiled): images99/image_3.jpg
+2025-06-26 19:11:21,090 - Image_Processor - DEBUG - Processed images99/image_3.jpg (3/16)
+2025-06-26 19:11:32,617 - Image_Processor - DEBUG - Processing image (tiled): images99/image_4.jpg
+2025-06-26 19:11:33,179 - Image_Processor - DEBUG - Processed images99/image_4.jpg (4/16)
+2025-06-26 19:11:45,709 - Image_Processor - DEBUG - Processing image (tiled): images99/image_5.jpg
+2025-06-26 19:11:46,045 - Image_Processor - DEBUG - Processed images99/image_5.jpg (5/16)
+2025-06-26 19:11:58,074 - Image_Processor - DEBUG - Processing image (tiled): images99/image_6.jpg
+2025-06-26 19:11:58,421 - Image_Processor - DEBUG - Processed images99/image_6.jpg (6/16)
+2025-06-26 19:12:09,949 - Image_Processor - DEBUG - Processing image (tiled): images99/image_7.jpg
+2025-06-26 19:12:10,277 - Image_Processor - DEBUG - Processed images99/image_7.jpg (7/16)
+2025-06-26 19:12:21,804 - Image_Processor - DEBUG - Processing image (tiled): images99/image_8.jpg
+2025-06-26 19:12:22,124 - Image_Processor - DEBUG - Processed images99/image_8.jpg (8/16)
+2025-06-26 19:12:31,146 - Image_Processor - DEBUG - Processing image (tiled): images99/image_9.jpg
+2025-06-26 19:12:31,475 - Image_Processor - DEBUG - Processed images99/image_9.jpg (9/16)
+2025-06-26 19:12:44,005 - Image_Processor - DEBUG - Processing image (tiled): images99/image_10.jpg
+2025-06-26 19:12:44,313 - Image_Processor - DEBUG - Processed images99/image_10.jpg (10/16)
+2025-06-26 19:12:56,342 - Image_Processor - DEBUG - Processing image (tiled): images99/image_11.jpg
+2025-06-26 19:12:56,657 - Image_Processor - DEBUG - Processed images99/image_11.jpg (11/16)
+2025-06-26 19:13:08,687 - Image_Processor - DEBUG - Processing image (tiled): images99/image_12.jpg
+2025-06-26 19:13:08,997 - Image_Processor - DEBUG - Processed images99/image_12.jpg (12/16)
+2025-06-26 19:13:20,525 - Image_Processor - DEBUG - Processing image (tiled): images99/image_13.jpg
+2025-06-26 19:13:20,837 - Image_Processor - DEBUG - Processed images99/image_13.jpg (13/16)
+2025-06-26 19:13:32,865 - Image_Processor - DEBUG - Processing image (tiled): images99/image_14.jpg
+2025-06-26 19:13:33,187 - Image_Processor - DEBUG - Processed images99/image_14.jpg (14/16)
+2025-06-26 19:13:44,214 - Image_Processor - DEBUG - Processing image (tiled): images99/image_15.jpg
+2025-06-26 19:13:44,537 - Image_Processor - DEBUG - Processed images99/image_15.jpg (15/16)
+2025-06-26 19:13:57,569 - Image_Processor - DEBUG - Processing image (tiled): images99/image_16.jpg
+2025-06-26 19:13:57,892 - Image_Processor - DEBUG - Processed images99/image_16.jpg (16/16)
+2025-06-26 19:13:58,392 - Image_Processor - DEBUG - All 16 images processed.
+2025-06-26 19:13:58,394 - Image_Processor - INFO - Toplam 10 obje tespit edildi.
+2025-06-26 19:13:58,403 - Image_Processor - DEBUG - Saved detection_file99.csv

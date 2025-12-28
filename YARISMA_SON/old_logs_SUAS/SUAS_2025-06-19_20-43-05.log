@@ -1,0 +1,71 @@
+2025-06-19 18:35:27,152 - SUAS - DEBUG - [SUAS_main.__init__:213] - (None, None, None)
+2025-06-19 18:35:27,152 - SUAS - DEBUG - [SUAS_main.__init__:219] - Opening camera with pipeline:
+nvarguscamerasrc sensor-id=0 aelock=true awblock=true wbmode=0 exposurecompensation=-1 exposuretimerange="1000000 1000000" gainrange="1 1" ! video/x-raw(memory:NVMM), width=4032, height=3040, framerate=20/1 ! nvvideoconvert flip-method=0 ! video/x-raw, format=BGRx ! videoconvert ! video/x-raw, format=BGR ! appsink
+2025-06-19 18:35:32,342 - SUAS - DEBUG - [SUAS_main.take_photo_opencv:361] - Saved photo to init_test_photo/image_1.jpg
+2025-06-19 18:35:37,073 - SUAS - DEBUG - [SUAS_main.take_photo_opencv:361] - Saved photo to images1/image_2.jpg
+2025-06-19 18:35:41,789 - SUAS - DEBUG - [SUAS_main.take_photo_opencv:361] - Saved photo to images1/image_3.jpg
+2025-06-19 18:35:41,790 - SUAS - DEBUG - [SUAS_main.__init__:111] - Initial flight mode: STABILIZE
+2025-06-19 18:35:42,583 - SUAS - DEBUG - [SUAS_main.main:628] - Download Waypoints - Completed
+2025-06-19 18:35:42,584 - SUAS - DEBUG - [SUAS_main.main:631] - WP SET TO 2
+2025-06-19 18:35:43,586 - SUAS - DEBUG - [SUAS_main.main:643] - ------------------------------8---------------------------
+2025-06-19 18:35:43,587 - SUAS - DEBUG - [SUAS_main.main:652] - ------------------------------------------------------------------------
+2025-06-19 18:35:43,587 - SUAS - DEBUG - [SUAS_main.main:653] - No DOJUMP
+2025-06-19 18:35:43,588 - SUAS - DEBUG - [SUAS_main.main:654] - ------------------------------------------------------------------------
+2025-06-19 18:35:43,792 - SUAS - DEBUG - [SUAS_main.main:663] - Download Changed Waypoints - Completed
+2025-06-19 18:35:43,793 - SUAS - DEBUG - [SUAS_main.main:670] - ------------------------------9 - updated---------------------------
+2025-06-19 18:35:43,807 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:44,315 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:44,817 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:45,320 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:45,821 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:46,323 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:46,824 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:47,326 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:47,827 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:48,329 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:48,831 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:49,333 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:49,834 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:50,337 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:50,840 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:51,342 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:51,844 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:52,345 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:52,847 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:53,349 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:53,851 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:54,352 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:54,853 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:55,355 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:55,857 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:56,358 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:56,860 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:57,361 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:57,862 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:58,364 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:58,865 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:59,367 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:35:59,868 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:00,370 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:00,871 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:01,373 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:01,874 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:02,376 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:02,880 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:03,381 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:03,883 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:04,384 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:04,885 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:05,388 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:05,890 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:06,391 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:06,893 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:07,395 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:07,897 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:08,398 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:08,901 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:09,403 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:09,904 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:10,407 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:10,908 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO
+2025-06-19 18:36:11,410 - SUAS - DEBUG - [SUAS_main.main:677] - Waiting for mode change to: AUTO

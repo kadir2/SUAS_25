@@ -1,0 +1,44 @@
+2025-06-25 15:30:05,297 - map_video - DEBUG - [mapping_recorder.main:136] - Test başlatılıyor: 10 saniye video kaydı.
+2025-06-25 15:30:06,060 - map_video - DEBUG - [mapping_recorder.main:150] - [20250625_153006] Test video kaydı başladı → test_video_20250625_153006.mp4
+2025-06-25 15:30:16,099 - map_video - DEBUG - [mapping_recorder.main:162] - [15:30:16] Test kaydı durduruluyor.
+2025-06-25 15:30:16,184 - map_video - DEBUG - [mapping_recorder.main:170] - Ana işlem başlatılıyor. Redis ile iletişim kurulacak.
+2025-06-25 15:30:16,184 - map_video - DEBUG - [mapping_recorder.main:173] - beklemedyiz hacıdayı
+2025-06-25 15:30:16,185 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:16] Redndı: False
+2025-06-25 15:30:17,187 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:17] Redndı: False
+2025-06-25 15:30:18,189 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:18] Redndı: False
+2025-06-25 15:30:19,191 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:19] Redndı: False
+2025-06-25 15:30:20,193 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:20] Redndı: False
+2025-06-25 15:30:21,194 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:21] Redndı: False
+2025-06-25 15:30:22,196 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:22] Redndı: False
+2025-06-25 15:30:23,198 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:23] Redndı: False
+2025-06-25 15:30:24,200 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:24] Redndı: False
+2025-06-25 15:30:25,202 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:25] Redndı: False
+2025-06-25 15:30:26,203 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:26] Redndı: False
+2025-06-25 15:30:27,205 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:27] Redndı: False
+2025-06-25 15:30:28,207 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:28] Redndı: False
+2025-06-25 15:30:29,209 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:29] Redndı: False
+2025-06-25 15:30:30,211 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:30] Redndı: False
+2025-06-25 15:30:31,213 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:31] Redndı: False
+2025-06-25 15:30:32,215 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:32] Redndı: False
+2025-06-25 15:30:33,216 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:33] Redndı: False
+2025-06-25 15:30:34,218 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:34] Redndı: False
+2025-06-25 15:30:35,220 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:35] Redndı: False
+2025-06-25 15:30:36,222 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:36] Redndı: False
+2025-06-25 15:30:37,223 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:37] Redndı: False
+2025-06-25 15:30:38,225 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:38] Redndı: False
+2025-06-25 15:30:39,227 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:39] Redndı: False
+2025-06-25 15:30:40,229 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:40] Redndı: False
+2025-06-25 15:30:41,231 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:41] Redndı: False
+2025-06-25 15:30:42,233 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:42] Redndı: False
+2025-06-25 15:30:43,234 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:43] Redndı: False
+2025-06-25 15:30:44,236 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:44] Redndı: False
+2025-06-25 15:30:45,238 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:45] Redndı: False
+2025-06-25 15:30:46,240 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:46] Redndı: False
+2025-06-25 15:30:47,242 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:47] Redndı: False
+2025-06-25 15:30:48,243 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:48] Redndı: False
+2025-06-25 15:30:49,245 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:49] Redndı: False
+2025-06-25 15:30:50,247 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:50] Redndı: False
+2025-06-25 15:30:51,249 - map_video - DEBUG - [mapping_recorder.main:176] - [15:30:51] Redndı: True
+2025-06-25 15:30:52,251 - map_video - DEBUG - [mapping_recorder.main:187] - [15:30:52] Kayıt başlatılıyor.
+2025-06-25 15:30:52,794 - map_video - DEBUG - [mapping_recorder.main:202] - [20250625_153052] Kayıt başladı → video_20250625_153052.mp4
+2025-06-25 15:32:47,118 - map_video - DEBUG - [mapping_recorder.main:206] - [15:32:47] Kayıt durduruluyor ve çıkılıyor.

@@ -1,0 +1,23 @@
+2025-06-20 20:46:53,092 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-20 20:46:53,952 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-20 22:05:26,383 - Image_Processor - DEBUG - Watching images13 for up to 6 new images...
+2025-06-20 22:05:43,421 - Image_Processor - DEBUG - Processing image (tiled): images13/image_1.jpg
+2025-06-20 22:05:48,078 - Image_Processor - INFO - Toplam 1 obje tespit edildi.
+2025-06-20 22:05:48,078 - Image_Processor - DEBUG - Processed images13/image_1.jpg (1/6)
+2025-06-20 22:05:58,100 - Image_Processor - DEBUG - Processing image (tiled): images13/image_2.jpg
+2025-06-20 22:05:58,445 - Image_Processor - INFO - Toplam 3 obje tespit edildi.
+2025-06-20 22:05:58,445 - Image_Processor - DEBUG - Processed images13/image_2.jpg (2/6)
+2025-06-20 22:06:12,476 - Image_Processor - DEBUG - Processing image (tiled): images13/image_3.jpg
+2025-06-20 22:06:12,806 - Image_Processor - INFO - Toplam 6 obje tespit edildi.
+2025-06-20 22:06:12,806 - Image_Processor - DEBUG - Processed images13/image_3.jpg (3/6)
+2025-06-20 22:06:27,337 - Image_Processor - DEBUG - Processing image (tiled): images13/image_4.jpg
+2025-06-20 22:06:27,663 - Image_Processor - INFO - Toplam 7 obje tespit edildi.
+2025-06-20 22:06:27,663 - Image_Processor - DEBUG - Processed images13/image_4.jpg (4/6)
+2025-06-20 22:06:42,193 - Image_Processor - DEBUG - Processing image (tiled): images13/image_5.jpg
+2025-06-20 22:06:42,560 - Image_Processor - INFO - Toplam 7 obje tespit edildi.
+2025-06-20 22:06:42,560 - Image_Processor - DEBUG - Processed images13/image_5.jpg (5/6)
+2025-06-20 22:06:57,594 - Image_Processor - DEBUG - Processing image (tiled): images13/image_6.jpg
+2025-06-20 22:06:57,928 - Image_Processor - INFO - Toplam 8 obje tespit edildi.
+2025-06-20 22:06:57,929 - Image_Processor - DEBUG - Processed images13/image_6.jpg (6/6)
+2025-06-20 22:06:58,429 - Image_Processor - DEBUG - All 6 images processed.
+2025-06-20 22:06:58,440 - Image_Processor - DEBUG - Saved detection_file13.csv

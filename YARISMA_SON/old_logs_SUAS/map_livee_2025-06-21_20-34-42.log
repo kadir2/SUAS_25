@@ -1,0 +1,23 @@
+2025-06-21 20:31:36,311 - map_video - DEBUG - [mapping_recorder.main:258] - Test başlatılıyor: 10 saniye video kaydı.
+2025-06-21 20:31:37,297 - map_video - DEBUG - [mapping_recorder.main:271] - [20250621_203137] Test video kaydı başladı → test_video_20250621_203137.mp4
+2025-06-21 20:31:47,712 - map_video - DEBUG - [mapping_recorder.main:284] - Test kaydı tamamlandı, USB'ye taşınıyor.
+2025-06-21 20:31:48,334 - map_video - DEBUG - [mapping_recorder.move_to_usb:250] - Video USB'ye taşındı: test_video_20250621_203137.mp4 → /media/itunom/1988-D002
+2025-06-21 20:31:48,334 - map_video - DEBUG - [mapping_recorder.main:288] - Ana işlem başlatılıyor. Redis ile iletişim kurulacak.
+2025-06-21 20:31:48,351 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:48] Beklemede... start_rec=False
+2025-06-21 20:31:49,352 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:49] Beklemede... start_rec=False
+2025-06-21 20:31:50,354 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:50] Beklemede... start_rec=False
+2025-06-21 20:31:51,356 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:51] Beklemede... start_rec=False
+2025-06-21 20:31:52,358 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:52] Beklemede... start_rec=False
+2025-06-21 20:31:53,360 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:53] Beklemede... start_rec=False
+2025-06-21 20:31:54,363 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:54] Beklemede... start_rec=False
+2025-06-21 20:31:55,365 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:55] Beklemede... start_rec=False
+2025-06-21 20:31:56,366 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:56] Beklemede... start_rec=False
+2025-06-21 20:31:57,369 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:57] Beklemede... start_rec=False
+2025-06-21 20:31:58,371 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:58] Beklemede... start_rec=False
+2025-06-21 20:31:59,372 - map_video - DEBUG - [mapping_recorder.main:292] - [20:31:59] Beklemede... start_rec=False
+2025-06-21 20:32:00,373 - map_video - DEBUG - [mapping_recorder.main:292] - [20:32:00] Beklemede... start_rec=False
+2025-06-21 20:32:01,375 - map_video - DEBUG - [mapping_recorder.main:292] - [20:32:01] Beklemede... start_rec=False
+2025-06-21 20:32:02,377 - map_video - DEBUG - [mapping_recorder.main:292] - [20:32:02] Beklemede... start_rec=False
+2025-06-21 20:32:03,379 - map_video - DEBUG - [mapping_recorder.main:292] - [20:32:03] Beklemede... start_rec=False
+2025-06-21 20:32:04,381 - map_video - DEBUG - [mapping_recorder.main:292] - [20:32:04] Beklemede... start_rec=False
+2025-06-21 20:32:05,383 - map_video - DEBUG - [mapping_recorder.main:292] - [20:32:05] Beklemede... start_rec=False

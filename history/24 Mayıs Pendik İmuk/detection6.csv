@@ -1,0 +1,19 @@
+image,class_name,confidence,center_x,center_y
+image_5.jpg,tennis racket,0.79,1247,1454
+image_1.jpg,person,0.314,1769,68
+image_2.jpg,sports ball,0.248,929,667
+image_1.jpg,motorcycle,0.181,1769,68
+image_2.jpg,traffic light,0.156,929,666
+image_1.jpg,sports ball,0.04,3021,1907
+image_1.jpg,kite,0.038,3020,1901
+image_6.jpg,kite,0.038,3036,1626
+image_2.jpg,clock,0.032,983,659
+image_6.jpg,airplane,0.029,3036,1625
+image_6.jpg,boat,0.023,1539,1506
+image_4.jpg,person,0.02,193,1930
+image_4.jpg,dog,0.019,192,1847
+image_3.jpg,person,0.017,927,444
+image_6.jpg,sports ball,0.017,3036,1618
+image_4.jpg,book,0.014,134,2068
+image_4.jpg,laptop,0.013,135,2068
+image_4.jpg,boat,0.011,640,1824

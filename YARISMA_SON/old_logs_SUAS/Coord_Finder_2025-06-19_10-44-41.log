@@ -1,0 +1,28 @@
+2025-06-11 22:05:16,680 - Coord_Finder - DEBUG - === PRODUCTION MODE ===
+2025-06-11 22:05:16,682 - Coord_Finder - DEBUG - Redis üzerinden ip_done parametresinin 'True' olmasını bekliyorum...
+2025-06-11 22:24:38,238 - Coord_Finder - DEBUG - ip_done 'True' olarak ayarlandı, production moduna geçiliyor.
+2025-06-11 22:24:40,245 - Coord_Finder - DEBUG - Detection DataFrame (df_results) başarıyla okundu:
+2025-06-11 22:24:40,259 - Coord_Finder - DEBUG - 
+         image     class_name  confidence  center_x  center_y
+0  image_1.jpg      stop sign       0.908      2206      1484
+1  image_5.jpg  traffic light       0.665      3060       653
+2  image_4.jpg  tennis racket       0.278      3577        68
+3  image_4.jpg       scissors       0.207      1601      1847
+4  image_6.jpg        bicycle       0.187      2139       317
+2025-06-11 22:24:40,259 - Coord_Finder - DEBUG - Position DataFrame (df_positions) başarıyla okundu:
+2025-06-11 22:24:40,268 - Coord_Finder - DEBUG - 
+         lat        lon     alt  yaw        image
+0  41.101548  29.023200  20.108   76  image_1.jpg
+1  41.101584  29.023281  19.913   76  image_2.jpg
+2  41.101596  29.023383  20.221   76  image_3.jpg
+3  41.101320  29.023617  20.159   75  image_4.jpg
+4  41.101272  29.023424  19.951   74  image_5.jpg
+2025-06-11 22:24:40,280 - Coord_Finder - DEBUG -          image     class_name  confidence  ...        lon     alt  yaw
+0  image_1.jpg      stop sign       0.908  ...  29.023200  20.108   76
+1  image_5.jpg  traffic light       0.665  ...  29.023424  19.951   74
+2  image_4.jpg  tennis racket       0.278  ...  29.023617  20.159   75
+3  image_4.jpg       scissors       0.207  ...  29.023617  20.159   75
+
+[4 rows x 9 columns]
+2025-06-11 22:24:40,315 - Coord_Finder - DEBUG - roi_results7.csv dosyası ya mevcut değil ya da zaten boş.
+2025-06-11 22:24:40,317 - Coord_Finder - DEBUG - Hesaplanan ROI Geo Koordinatları 'roi_results7.csv' dosyasına kaydedildi.

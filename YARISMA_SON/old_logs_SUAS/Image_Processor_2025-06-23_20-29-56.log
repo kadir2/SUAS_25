@@ -1,0 +1,20 @@
+2025-06-23 19:20:40,618 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-23 19:20:41,863 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-23 20:07:09,241 - Image_Processor - DEBUG - Watching images22 for up to 6 new images...
+2025-06-23 20:07:32,796 - Image_Processor - DEBUG - Processing image (tiled): images22/image_1.jpg
+2025-06-23 20:07:37,044 - Image_Processor - DEBUG - Processed images22/image_1.jpg (1/6)
+2025-06-23 20:07:45,063 - Image_Processor - DEBUG - Processing image (tiled): images22/image_2.jpg
+2025-06-23 20:07:45,341 - Image_Processor - DEBUG - Processed images22/image_2.jpg (2/6)
+2025-06-23 20:07:57,869 - Image_Processor - DEBUG - Processing image (tiled): images22/image_3.jpg
+2025-06-23 20:07:58,130 - Image_Processor - DEBUG - Processed images22/image_3.jpg (3/6)
+2025-06-23 20:08:08,154 - Image_Processor - DEBUG - Processing image (tiled): images22/image_4.jpg
+2025-06-23 20:08:08,447 - Image_Processor - DEBUG - Processed images22/image_4.jpg (4/6)
+2025-06-23 20:08:22,981 - Image_Processor - DEBUG - Processing image (tiled): images22/image_5.jpg
+2025-06-23 20:08:23,238 - Image_Processor - DEBUG - Processed images22/image_5.jpg (5/6)
+2025-06-23 20:08:34,766 - Image_Processor - DEBUG - Processing image (tiled): images22/image_6.jpg
+2025-06-23 20:08:35,026 - Image_Processor - DEBUG - Processed images22/image_6.jpg (6/6)
+2025-06-23 20:08:35,527 - Image_Processor - DEBUG - All 6 images processed.
+2025-06-23 20:08:35,529 - Image_Processor - INFO - Hiçbir obje tespit edilmedi, DataFrame boş.
+2025-06-23 20:08:35,529 - Image_Processor - INFO - ip_done True
+2025-06-23 20:08:35,529 - Image_Processor - INFO - cf_done True
+2025-06-23 20:08:35,530 - Image_Processor - INFO - sicti True

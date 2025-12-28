@@ -1,0 +1,11 @@
+2025-06-19 17:14:44,794 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-19 17:14:46,073 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-19 17:16:54,267 - Image_Processor - DEBUG - Watching images1 for up to 6 new images...
+2025-06-19 17:17:05,282 - Image_Processor - DEBUG - Processing image (tiled): images1/image_1.jpg
+2025-06-19 17:17:11,767 - Image_Processor - DEBUG - Processed images1/image_1.jpg (1/6)
+2025-06-19 17:17:12,268 - Image_Processor - DEBUG - Processing image (tiled): images1/image_2.jpg
+2025-06-19 17:17:12,638 - Image_Processor - DEBUG - Processed images1/image_2.jpg (2/6)
+2025-06-19 17:17:15,142 - Image_Processor - DEBUG - Processing image (tiled): images1/image_3.jpg
+2025-06-19 17:17:15,457 - Image_Processor - DEBUG - Processed images1/image_3.jpg (3/6)
+2025-06-19 17:17:19,964 - Image_Processor - DEBUG - Processing image (tiled): images1/image_4.jpg
+2025-06-19 17:17:20,196 - Image_Processor - DEBUG - Processed images1/image_4.jpg (4/6)

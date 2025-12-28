@@ -1,0 +1,17 @@
+2025-06-11 22:05:19,498 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-11 22:05:20,480 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-11 22:23:33,076 - Image_Processor - DEBUG - Watching images7 for up to 6 new images...
+2025-06-11 22:23:50,100 - Image_Processor - DEBUG - Processing image (tiled): images7/image_1.jpg
+2025-06-11 22:23:55,531 - Image_Processor - DEBUG - Processed images7/image_1.jpg (1/6)
+2025-06-11 22:23:57,034 - Image_Processor - DEBUG - Processing image (tiled): images7/image_2.jpg
+2025-06-11 22:23:58,642 - Image_Processor - DEBUG - Processed images7/image_2.jpg (2/6)
+2025-06-11 22:24:04,651 - Image_Processor - DEBUG - Processing image (tiled): images7/image_3.jpg
+2025-06-11 22:24:06,381 - Image_Processor - DEBUG - Processed images7/image_3.jpg (3/6)
+2025-06-11 22:24:16,397 - Image_Processor - DEBUG - Processing image (tiled): images7/image_4.jpg
+2025-06-11 22:24:18,090 - Image_Processor - DEBUG - Processed images7/image_4.jpg (4/6)
+2025-06-11 22:24:26,103 - Image_Processor - DEBUG - Processing image (tiled): images7/image_5.jpg
+2025-06-11 22:24:27,760 - Image_Processor - DEBUG - Processed images7/image_5.jpg (5/6)
+2025-06-11 22:24:35,271 - Image_Processor - DEBUG - Processing image (tiled): images7/image_6.jpg
+2025-06-11 22:24:36,924 - Image_Processor - DEBUG - Processed images7/image_6.jpg (6/6)
+2025-06-11 22:24:37,425 - Image_Processor - DEBUG - All 6 images processed.
+2025-06-11 22:24:37,432 - Image_Processor - DEBUG - Saved detection7.csv

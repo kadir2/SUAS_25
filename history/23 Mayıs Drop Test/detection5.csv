@@ -1,0 +1,6 @@
+image,class_name,confidence,center_x,center_y
+image_5.jpg,airplane,0.952,1737,655
+image_1.jpg,person,0.324,1825,680
+image_4.jpg,person,0.091,1626,997
+image_4.jpg,stop sign,0.089,1059,470
+image_1.jpg,person,0.079,1863,702

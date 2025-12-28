@@ -1,0 +1,4 @@
+2025-06-19 17:14:40,060 - Coord_Finder - DEBUG - === PRODUCTION MODE ===
+2025-06-19 17:14:40,062 - Coord_Finder - DEBUG - Redis üzerinden ip_done parametresinin 'True' olmasını bekliyorum...
+2025-06-19 17:18:53,408 - Coord_Finder - DEBUG - ip_done 'True' olarak ayarlandı, production moduna geçiliyor.
+2025-06-19 17:18:55,422 - Coord_Finder - DEBUG - Dosyalardan okuma sırasında hata: [Errno 2] No such file or directory: 'detection_file1.csv'

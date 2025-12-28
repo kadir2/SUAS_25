@@ -1,0 +1,31 @@
+image,class_name,confidence,center_x,center_y
+image_1.jpg,stop sign,0.841,2473,1421
+image_4.jpg,sports ball,0.706,1767,1434
+image_2.jpg,scissors,0.577,1790,784
+image_5.jpg,tennis racket,0.557,1512,849
+image_5.jpg,scissors,0.379,1511,849
+image_1.jpg,person,0.192,2580,1420
+image_2.jpg,tennis racket,0.165,1791,784
+image_3.jpg,person,0.164,2080,946
+image_5.jpg,sports ball,0.163,3455,1018
+image_3.jpg,tennis racket,0.118,1873,1052
+image_6.jpg,bottle,0.107,2519,502
+image_6.jpg,cake,0.087,470,1860
+image_6.jpg,toothbrush,0.077,2447,492
+image_3.jpg,toothbrush,0.048,2080,918
+image_6.jpg,fire hydrant,0.042,243,1875
+image_6.jpg,traffic light,0.035,2656,513
+image_6.jpg,sports ball,0.03,2656,511
+image_3.jpg,sports ball,0.027,1092,1910
+image_3.jpg,traffic light,0.023,622,1886
+image_4.jpg,traffic light,0.021,2272,185
+image_6.jpg,baseball bat,0.02,2108,1481
+image_3.jpg,baseball bat,0.017,2082,1093
+image_2.jpg,person,0.016,41,1286
+image_3.jpg,fire hydrant,0.014,846,1864
+image_1.jpg,sports ball,0.013,3597,501
+image_6.jpg,cup,0.012,2528,645
+image_6.jpg,airplane,0.012,2587,492
+image_3.jpg,bottle,0.012,2113,805
+image_6.jpg,tennis racket,0.011,2430,478
+image_4.jpg,baseball bat,0.01,1988,637

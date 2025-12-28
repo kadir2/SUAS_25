@@ -1,0 +1,11 @@
+image,class_name,confidence,center_x,center_y
+image_15.jpg,person,0.864,948,1813
+image_12.jpg,stop sign,0.823,658,1357
+image_13.jpg,kite,0.175,634,309
+image_11.jpg,sports ball,0.06,2194,2436
+image_4.jpg,kite,0.049,925,2617
+image_14.jpg,kite,0.046,2543,878
+image_13.jpg,airplane,0.015,3799,1431
+image_7.jpg,kite,0.011,1855,631
+image_11.jpg,apple,0.011,2196,2436
+image_15.jpg,backpack,0.011,953,1743

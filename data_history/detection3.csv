@@ -1,0 +1,7 @@
+image,class_name,confidence,center_x,center_y
+image_3.jpg,person,0.865,2083,937
+image_4.jpg,sports ball,0.819,1767,1435
+image_1.jpg,sports ball,0.466,2495,1421
+image_3.jpg,sports ball,0.245,2079,1170
+image_5.jpg,sports ball,0.021,3455,1016
+image_6.jpg,airplane,0.011,2495,503

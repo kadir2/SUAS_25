@@ -1,0 +1,11 @@
+image,class_name,confidence,center_x,center_y
+image_3.jpg,person,0.59,1555,1265
+image_1.jpg,sports ball,0.278,3274,1366
+image_1.jpg,stop sign,0.25,1877,1502
+image_3.jpg,airplane,0.111,640,804
+image_3.jpg,potted plant,0.096,3177,1268
+image_3.jpg,chair,0.014,3435,1266
+image_3.jpg,sports ball,0.014,1565,1454
+image_3.jpg,traffic light,0.012,1566,1257
+image_3.jpg,dining table,0.011,640,799
+image_3.jpg,suitcase,0.01,1564,1449

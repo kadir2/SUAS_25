@@ -1,0 +1,6 @@
+2025-06-14 23:17:41,058 - Mapping - DEBUG - Waiting for 'start_mapping' signal...
+2025-06-14 23:17:41,064 - Mapping - DEBUG - Monitoring directory: images8 for mapping images...
+2025-06-14 23:17:54,085 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_1.jpg (1/2)
+2025-06-14 23:17:54,085 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_2.jpg (2/2)
+2025-06-14 23:17:54,586 - Mapping - DEBUG - Tüm mapping resimleri toplandı.
+2025-06-14 23:17:59,605 - Mapping - DEBUG - Son panorama kaydedildi: mapping_result.jpg

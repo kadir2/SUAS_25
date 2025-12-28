@@ -1,0 +1,4 @@
+image,class_name,confidence,center_x,center_y
+image_1.jpg,person,0.71,2257,229
+image_1.jpg,person,0.691,2237,231
+image_2.jpg,stop sign,0.664,1953,1203

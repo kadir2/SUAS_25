@@ -1,0 +1,18 @@
+2025-06-20 23:27:54,215 - map_video - DEBUG - [mapping_recorder.main:75] - Test başlatılıyor: 10 saniye video kaydı.
+2025-06-20 23:27:54,992 - map_video - DEBUG - [mapping_recorder.main:89] - [20250620_232754] Test video kaydı başladı → test_video_20250620_232754.mp4
+2025-06-20 23:28:05,017 - map_video - DEBUG - [mapping_recorder.main:101] - [23:28:05] Test kaydı durduruluyor.
+2025-06-20 23:28:05,095 - map_video - DEBUG - [mapping_recorder.main:109] - Ana işlem başlatılıyor. Redis ile iletişim kurulacak.
+2025-06-20 23:28:05,095 - map_video - DEBUG - [mapping_recorder.main:111] - beklemedyiz hacıdayı
+2025-06-20 23:28:05,096 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:05] Redndı: False
+2025-06-20 23:28:06,097 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:06] Redndı: False
+2025-06-20 23:28:07,099 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:07] Redndı: False
+2025-06-20 23:28:08,101 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:08] Redndı: False
+2025-06-20 23:28:09,103 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:09] Redndı: False
+2025-06-20 23:28:10,104 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:10] Redndı: False
+2025-06-20 23:28:11,105 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:11] Redndı: False
+2025-06-20 23:28:12,107 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:12] Redndı: False
+2025-06-20 23:28:13,109 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:13] Redndı: False
+2025-06-20 23:28:14,111 - map_video - DEBUG - [mapping_recorder.main:114] - [23:28:14] Redndı: True
+2025-06-20 23:28:15,113 - map_video - DEBUG - [mapping_recorder.main:125] - [23:28:15] Kayıt başlatılıyor.
+2025-06-20 23:28:15,656 - map_video - DEBUG - [mapping_recorder.main:140] - [20250620_232815] Kayıt başladı → video_20250620_232815.mp4
+2025-06-20 23:28:26,755 - map_video - DEBUG - [mapping_recorder.main:144] - [23:28:26] Kayıt durduruluyor ve çıkılıyor.

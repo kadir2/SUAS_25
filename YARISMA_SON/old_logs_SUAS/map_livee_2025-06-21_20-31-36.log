@@ -1,0 +1,18 @@
+2025-06-21 20:30:40,712 - map_video - DEBUG - [mapping_recorder.main:257] - Test başlatılıyor: 10 saniye video kaydı.
+2025-06-21 20:30:41,685 - map_video - DEBUG - [mapping_recorder.main:270] - [20250621_203041] Test video kaydı başladı → test_video_20250621_203041.mp4
+2025-06-21 20:30:52,156 - map_video - DEBUG - [mapping_recorder.main:283] - Test kaydı tamamlandı, USB'ye taşınıyor.
+2025-06-21 20:30:52,156 - map_video - ERROR - [mapping_recorder.move_to_usb:246] - USB dizini bulunamadı: /media/itunom/toshiba usb
+2025-06-21 20:30:52,156 - map_video - DEBUG - [mapping_recorder.main:287] - Ana işlem başlatılıyor. Redis ile iletişim kurulacak.
+2025-06-21 20:30:52,160 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:52] Beklemede... start_rec=False
+2025-06-21 20:30:53,162 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:53] Beklemede... start_rec=False
+2025-06-21 20:30:54,164 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:54] Beklemede... start_rec=False
+2025-06-21 20:30:55,166 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:55] Beklemede... start_rec=False
+2025-06-21 20:30:56,167 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:56] Beklemede... start_rec=False
+2025-06-21 20:30:57,169 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:57] Beklemede... start_rec=False
+2025-06-21 20:30:58,171 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:58] Beklemede... start_rec=False
+2025-06-21 20:30:59,173 - map_video - DEBUG - [mapping_recorder.main:291] - [20:30:59] Beklemede... start_rec=False
+2025-06-21 20:31:00,175 - map_video - DEBUG - [mapping_recorder.main:291] - [20:31:00] Beklemede... start_rec=False
+2025-06-21 20:31:01,177 - map_video - DEBUG - [mapping_recorder.main:291] - [20:31:01] Beklemede... start_rec=False
+2025-06-21 20:31:02,179 - map_video - DEBUG - [mapping_recorder.main:291] - [20:31:02] Beklemede... start_rec=False
+2025-06-21 20:31:03,181 - map_video - DEBUG - [mapping_recorder.main:291] - [20:31:03] Beklemede... start_rec=False
+2025-06-21 20:31:04,183 - map_video - DEBUG - [mapping_recorder.main:291] - [20:31:04] Beklemede... start_rec=False

@@ -1,0 +1,162 @@
+{
+    "MappingPoints": {
+        "1": {
+            "Latitude": 38.3151965,
+            "Longitude": -76.5493235
+        },
+        "2": {
+            "Latitude": 38.3157965,
+            "Longitude": -76.54915
+        },
+        "3": {
+            "Latitude": 38.3153575,
+            "Longitude": -76.55025
+        },
+        "4": {
+            "Latitude": 38.3159575,
+            "Longitude": -76.5500765
+        }},
+    "Points": {
+        "1": {
+            "Latitude": 38.3142837,
+            "Longitude": -76.5441062
+        },
+        "2": {
+            "Latitude": 38.3143794,
+            "Longitude": -76.5440792
+        },
+        "3": {
+            "Latitude": 38.3144036,
+            "Longitude": -76.5442481
+        },
+        "4": {
+            "Latitude": 38.3143128,
+            "Longitude": -76.5442737
+        },
+        "5": {
+            "Latitude": 38.3143418,
+            "Longitude": -76.5444412
+        },
+        "6": {
+            "Latitude": 38.3144366,
+            "Longitude": -76.5444146
+        },
+        "7": {
+            "Latitude": 38.3144608,
+            "Longitude": -76.5445835
+        },
+        "8": {
+            "Latitude": 38.3143709,
+            "Longitude": -76.5446088
+        },
+        "9": {
+            "Latitude": 38.3143999,
+            "Longitude": -76.5447763
+        },
+        "10": {
+            "Latitude": 38.3144938,
+            "Longitude": -76.5447499
+        },
+        "11": {
+            "Latitude": 38.3145181,
+            "Longitude": -76.5449188
+        },
+        "12": {
+            "Latitude": 38.3144289,
+            "Longitude": -76.5449439
+        },
+        "13": {
+            "Latitude": 38.314458,
+            "Longitude": -76.5451114
+        },
+        "14": {
+            "Latitude": 38.3145511,
+            "Longitude": -76.5450852
+        }
+    },
+    "LandCoordinates":
+    {
+        "Latitude": 41.1015918,
+        "Longitude": 29.0233094
+    },
+    "ObjectServo":
+    {
+        "1":
+        {
+            "Channel":5,
+            "PWM": 1100
+        },
+        "2":
+        {
+            "Channel":5,
+            "PWM": 1300
+        },
+        "3":
+        {
+            "Channel":5,
+            "PWM": 1500
+        },
+        "4":
+        {
+            "Channel":5,
+            "PWM": 1700
+        }
+    },
+    "AttributeServo":
+    {
+        "Release":
+        {
+            "Channel":5,
+            "PWM": 950
+        },
+        "Hold":
+        {
+            "Channel":5,
+            "PWM": 800
+        }
+    },
+    "MechanismServo":
+    {
+        "Open":
+        {
+            "Channel": 6,
+            "PWM": 930
+        },
+        "Close":
+        {
+            "Channel": 6,
+            "PWM": 1900
+        }
+    },
+    "CaptureInfo":
+    {
+        "ev": -2.5,
+        "t":1000
+    },
+    "isSimActivated": true,
+    "SIM_IP" : "127.0.0.1:14551",
+    
+    "WP_SPEED" : 2000,
+
+    "DropAltitude": 26,
+    "DropDelay" : 30,
+    "DROP_SPEED" : 400,
+    "DROP_YAW" : 75,
+
+    "image_count": 10,
+    "image_dir": "images",
+    "image_pattern": "*.jpg",
+    "image_alt":"30",
+
+    "mapping_image_count": 4,
+    "mapping_dir": "mapping_images",
+    "mapping_pattern": ["*.JPG", "*.png", "*.jpg"],
+    "mapping_alt":"70",
+    "mapping_yaw" : 60,
+    "output_image": "mapping_result.jpg",
+    "simulation_mapping_source": "simulation_mapping",
+    "simulation_scan_source": "simulation_scan"
+      
+}
+
+

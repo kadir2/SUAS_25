@@ -1,0 +1,14 @@
+2025-06-21 06:09:23,336 - Mapping - DEBUG - Waiting for 'start_mapping' signal...
+2025-06-21 06:09:23,337 - Mapping - DEBUG - Monitoring directory: panarrr for mapping images...
+2025-06-21 06:09:39,361 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_182.jpg (1/10)
+2025-06-21 06:09:39,361 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_183.jpg (2/10)
+2025-06-21 06:09:39,361 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_184.jpg (3/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_185.jpg (4/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_186.jpg (5/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_187.jpg (6/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_188.jpg (7/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_189.jpg (8/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_190.jpg (9/10)
+2025-06-21 06:09:39,362 - Mapping - DEBUG - Yeni mapping resmi bulundu: panarrr/frame_191.jpg (10/10)
+2025-06-21 06:09:39,862 - Mapping - DEBUG - Tüm mapping resimleri toplandı.
+2025-06-21 06:11:33,994 - Mapping - DEBUG - Birleştirilmiş resim mapping_result.jpg dosyasına kaydedildi.

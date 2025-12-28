@@ -1,0 +1,26 @@
+2025-06-11 20:23:03,011 - Coord_Finder - DEBUG - === PRODUCTION MODE ===
+2025-06-11 20:23:03,014 - Coord_Finder - DEBUG - Redis üzerinden ip_done parametresinin 'True' olmasını bekliyorum...
+2025-06-11 20:23:03,015 - Coord_Finder - DEBUG - ip_done 'True' olarak ayarlandı, production moduna geçiliyor.
+2025-06-11 20:23:05,067 - Coord_Finder - DEBUG - Detection DataFrame (df_results) başarıyla okundu:
+2025-06-11 20:23:05,096 - Coord_Finder - DEBUG - 
+         image    class_name  confidence  center_x  center_y
+0  image_3.jpg        person       0.590      1555      1265
+1  image_1.jpg   sports ball       0.278      3274      1366
+2  image_1.jpg     stop sign       0.250      1877      1502
+3  image_3.jpg      airplane       0.111       640       804
+4  image_3.jpg  potted plant       0.096      3177      1268
+2025-06-11 20:23:05,096 - Coord_Finder - DEBUG - Position DataFrame (df_positions) başarıyla okundu:
+2025-06-11 20:23:05,114 - Coord_Finder - DEBUG - 
+         lat        lon     alt  yaw        image
+0  40.967343  29.336725  39.992   91  image_1.jpg
+1  40.967118  29.336755  39.936   89  image_2.jpg
+2  40.966883  29.336773  39.788   90  image_3.jpg
+3  40.966863  29.337013  39.857   90  image_4.jpg
+4  40.967090  29.337025  40.292   91  image_5.jpg
+2025-06-11 20:23:05,138 - Coord_Finder - DEBUG -          image   class_name  confidence  center_x  center_y        lat        lon     alt  yaw
+0  image_3.jpg       person       0.590      1555      1265  40.966883  29.336773  39.788   90
+1  image_3.jpg     airplane       0.111       640       804  40.966883  29.336773  39.788   90
+2  image_1.jpg  sports ball       0.278      3274      1366  40.967343  29.336725  39.992   91
+3  image_1.jpg    stop sign       0.250      1877      1502  40.967343  29.336725  39.992   91
+2025-06-11 20:23:05,185 - Coord_Finder - DEBUG - roi_results6.csv dosyası ya mevcut değil ya da zaten boş.
+2025-06-11 20:23:05,189 - Coord_Finder - DEBUG - Hesaplanan ROI Geo Koordinatları 'roi_results6.csv' dosyasına kaydedildi.

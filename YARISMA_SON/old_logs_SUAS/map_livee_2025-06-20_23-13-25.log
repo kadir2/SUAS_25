@@ -1,0 +1,3 @@
+2025-06-20 23:05:58,746 - map_video - DEBUG - [mapping_recorder.main:75] - Test başlatılıyor: 10 saniye video kaydı.
+2025-06-20 23:05:59,561 - map_video - DEBUG - [mapping_recorder.main:89] - [20250620_230559] Test video kaydı başladı → test_video_20250620_230559.mp4
+2025-06-20 23:06:09,585 - map_video - DEBUG - [mapping_recorder.main:101] - [23:06:09] Test kaydı durduruluyor.

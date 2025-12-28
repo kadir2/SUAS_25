@@ -1,0 +1,23 @@
+2025-06-21 00:32:51,288 - Image_Processor - DEBUG - Loading YOLO model...
+2025-06-21 00:32:52,472 - Image_Processor - DEBUG - Waiting for 'start_ip'...
+2025-06-21 00:36:58,865 - Image_Processor - DEBUG - Watching images15 for up to 6 new images...
+2025-06-21 00:37:14,938 - Image_Processor - DEBUG - Processing image (tiled): images15/image_1.jpg
+2025-06-21 00:37:19,739 - Image_Processor - INFO - Toplam 4 obje tespit edildi.
+2025-06-21 00:37:19,739 - Image_Processor - DEBUG - Processed images15/image_1.jpg (1/6)
+2025-06-21 00:37:27,258 - Image_Processor - DEBUG - Processing image (tiled): images15/image_2.jpg
+2025-06-21 00:37:27,648 - Image_Processor - INFO - Toplam 6 obje tespit edildi.
+2025-06-21 00:37:27,648 - Image_Processor - DEBUG - Processed images15/image_2.jpg (2/6)
+2025-06-21 00:37:41,682 - Image_Processor - DEBUG - Processing image (tiled): images15/image_3.jpg
+2025-06-21 00:37:42,083 - Image_Processor - INFO - Toplam 8 obje tespit edildi.
+2025-06-21 00:37:42,083 - Image_Processor - DEBUG - Processed images15/image_3.jpg (3/6)
+2025-06-21 00:37:58,123 - Image_Processor - DEBUG - Processing image (tiled): images15/image_4.jpg
+2025-06-21 00:37:58,512 - Image_Processor - INFO - Toplam 9 obje tespit edildi.
+2025-06-21 00:37:58,513 - Image_Processor - DEBUG - Processed images15/image_4.jpg (4/6)
+2025-06-21 00:38:14,550 - Image_Processor - DEBUG - Processing image (tiled): images15/image_5.jpg
+2025-06-21 00:38:14,908 - Image_Processor - INFO - Toplam 9 obje tespit edildi.
+2025-06-21 00:38:14,909 - Image_Processor - DEBUG - Processed images15/image_5.jpg (5/6)
+2025-06-21 00:38:29,443 - Image_Processor - DEBUG - Processing image (tiled): images15/image_6.jpg
+2025-06-21 00:38:29,801 - Image_Processor - INFO - Toplam 10 obje tespit edildi.
+2025-06-21 00:38:29,801 - Image_Processor - DEBUG - Processed images15/image_6.jpg (6/6)
+2025-06-21 00:38:30,302 - Image_Processor - DEBUG - All 6 images processed.
+2025-06-21 00:38:30,313 - Image_Processor - DEBUG - Saved detection_file15.csv

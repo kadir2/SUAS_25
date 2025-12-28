@@ -1,0 +1,187 @@
+{
+    "MappingPoints": {
+    "1": {
+      "Latitude": 41.1014723,
+      "Longitude": 29.0232249
+    },
+    "2": {
+      "Latitude": 41.1014850,
+      "Longitude": 29.0233064
+    },
+    "3": {
+      "Latitude": 41.1014944,
+      "Longitude": 29.0233731
+    },
+    "4": {
+      "Latitude": 41.1015025,
+      "Longitude": 29.0234416
+    },
+    "5": {
+      "Latitude": 41.1015568,
+      "Longitude": 29.0234284
+    },
+    "6": {
+      "Latitude": 41.1015463,
+      "Longitude": 29.0233547
+    },
+    "7": {
+      "Latitude": 41.1015363,
+      "Longitude": 29.0232807
+    },
+    "8": {
+      "Latitude": 41.1015269,
+      "Longitude": 29.0232096
+    },
+    "9": {
+      "Latitude": 41.1015870,
+      "Longitude": 29.0231893
+    },
+    "10": {
+      "Latitude": 41.1015982,
+      "Longitude": 29.0232627
+    },
+    "11": {
+      "Latitude": 41.1016079,
+      "Longitude": 29.0233398
+    },
+    "12": {
+      "Latitude": 41.1016183,
+      "Longitude": 29.0234107
+    },
+    "13": {
+      "Latitude": 41.1016789,
+      "Longitude": 29.0233956
+    },
+    "14": {
+      "Latitude": 41.1016721,
+      "Longitude": 29.0233224
+    },
+    "15": {
+      "Latitude": 41.1016599,
+      "Longitude": 29.0232465
+    },
+    "16": {
+      "Latitude": 41.1016502,
+      "Longitude": 29.0231724
+    }
+    },
+        
+    
+  "Points1": {
+
+      "1": {
+        "Latitude": 41.1015736,
+        "Longitude": 29.0232102
+      },
+      "2": {
+        "Latitude": 41.1015879,
+        "Longitude": 29.0233154
+      },
+      "3": {
+        "Latitude": 41.1016011,
+        "Longitude": 29.0234179
+      },
+      "4": {
+        "Latitude": 41.1013010,
+        "Longitude": 29.0236324
+      },
+      "5": {
+        "Latitude": 41.1012680,
+        "Longitude": 29.0233891
+      },
+      "6": {
+        "Latitude": 41.1012371,
+        "Longitude": 29.0231598
+      }
+    },
+  "Points": {
+    "1": {
+      "Latitude": 40.9673347000000,
+      "Longitude": 29.3367499000000
+    },
+    "2": {
+      "Latitude": 40.9670966000000,
+      "Longitude": 29.3367535000000
+    },
+    "3": {
+      "Latitude": 40.9668562000000,
+      "Longitude": 29.3367736000000
+    },
+    "4": {
+      "Latitude": 40.9668660000000,
+      "Longitude": 29.3370362000000
+    },
+    "5": {
+      "Latitude": 40.9671106000000,
+      "Longitude": 29.3370206000000
+    },
+    "6": {
+      "Latitude": 40.9673582000000,
+      "Longitude": 29.3370142000000
+    }
+    },
+
+    
+    "LandCoordinates":
+    {
+        "Latitude": 38.3143999,
+        "Longitude": -76.5444412
+    },
+    "ObjectServo":
+    {
+        "1":
+        {
+            "Channel":14,
+            "PWM": 1650
+        },
+        "2":
+        {
+            "Channel":14,
+            "PWM": 1100
+        },
+        "3":
+        {
+            "Channel":14,
+            "PWM": 1900
+        },
+        "4":
+        {
+            "Channel":14,
+            "PWM": 1400
+        }
+    },
+
+    "CaptureInfo":
+    {
+        "ev": -2.5,
+        "t":1000
+    },
+    "isSimActivated": false,
+    "SIM_IP" : "127.0.0.1:14551",
+    
+    "WP_SPEED" : 800,
+
+    "DropAltitude": 17,
+    "DropDelay" : 40,
+    "DROP_SPEED" : 800,
+    "DROP_YAW" : 92,
+
+    "image_count": 3,
+    "image_dir": "images",
+    "detection_file": "detection_file",
+    "position_file": "position_data",
+    "image_pattern": "*.jpg",
+    "image_alt":40,
+
+    "counter": "6", 
+
+    "mapping_image_count": 6,
+    "mapping_dir": "images",
+    "mapping_pattern": ["*.JPG", "*.png", "*.jpg"],
+    "mapping_alt":50,
+    "mapping_yaw" : 356,
+    "output_image": "mapping_result.jpg"
+ 
+}
+
+

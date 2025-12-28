@@ -1,0 +1,7 @@
+image,class_name,confidence,center_x,center_y
+image_5.jpg,airplane,0.808,2021,568
+image_5.jpg,airplane,0.581,2131,609
+image_1.jpg,person,0.068,1835,1049
+image_1.jpg,tennis racket,0.067,1835,1209
+image_4.jpg,person,0.067,1252,587
+image_1.jpg,tennis racket,0.06,1673,1209

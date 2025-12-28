@@ -1,0 +1,3 @@
+2025-06-02 20:39:06,269 - SUAS - DEBUG - (38.3144305, -76.549333, 0.044)
+2025-06-02 20:39:06,269 - SUAS - DEBUG - Opening camera with pipeline:
+nvarguscamerasrc sensor-id=0 aelock=false awblock=true wbmode=0 exposurecompensation=-1 ! video/x-raw(memory:NVMM), width=(int)4032, height=(int)3040, framerate=(fraction)21/1 ! nvvidconv flip-method=0 ! video/x-raw, format=(string)BGRx ! videoconvert ! video/x-raw, format=(string)BGR ! appsink

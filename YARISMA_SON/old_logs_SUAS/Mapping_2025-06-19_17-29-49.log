@@ -1,0 +1,6 @@
+2025-06-19 17:14:39,660 - Mapping - DEBUG - Waiting for 'start_mapping' signal...
+2025-06-19 17:14:39,661 - Mapping - DEBUG - Monitoring directory: images1 for mapping images...
+2025-06-19 17:17:05,389 - Mapping - DEBUG - Yeni mapping resmi bulundu: images1/image_1.jpg (1/6)
+2025-06-19 17:17:10,398 - Mapping - DEBUG - Yeni mapping resmi bulundu: images1/image_2.jpg (2/6)
+2025-06-19 17:17:15,412 - Mapping - DEBUG - Yeni mapping resmi bulundu: images1/image_3.jpg (3/6)
+2025-06-19 17:17:19,920 - Mapping - DEBUG - Yeni mapping resmi bulundu: images1/image_4.jpg (4/6)

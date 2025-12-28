@@ -1,0 +1,4 @@
+2025-06-23 18:56:24,216 - Coord_Finder - DEBUG - === PRODUCTION MODE ===
+2025-06-23 18:56:26,239 - Coord_Finder - DEBUG - CoordinateFinder initialized.
+2025-06-23 18:56:26,241 - Coord_Finder - DEBUG - CoordinateFinder initialized.
+2025-06-23 18:56:26,244 - Coord_Finder - DEBUG - ROI coordinates saved to 'roi_results21.csv'.

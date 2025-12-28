@@ -1,0 +1,21 @@
+2025-06-20 23:26:20,615 - map_video - DEBUG - [mapping_recorder.main:75] - Test başlatılıyor: 10 saniye video kaydı.
+2025-06-20 23:26:21,393 - map_video - DEBUG - [mapping_recorder.main:89] - [20250620_232621] Test video kaydı başladı → test_video_20250620_232621.mp4
+2025-06-20 23:26:31,421 - map_video - DEBUG - [mapping_recorder.main:101] - [23:26:31] Test kaydı durduruluyor.
+2025-06-20 23:26:31,488 - map_video - DEBUG - [mapping_recorder.main:109] - Ana işlem başlatılıyor. Redis ile iletişim kurulacak.
+2025-06-20 23:26:31,488 - map_video - DEBUG - [mapping_recorder.main:111] - beklemedyiz hacıdayı
+2025-06-20 23:26:31,489 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:31] Redndı: False
+2025-06-20 23:26:32,491 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:32] Redndı: False
+2025-06-20 23:26:33,492 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:33] Redndı: False
+2025-06-20 23:26:34,493 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:34] Redndı: False
+2025-06-20 23:26:35,495 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:35] Redndı: False
+2025-06-20 23:26:36,497 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:36] Redndı: False
+2025-06-20 23:26:37,497 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:37] Redndı: False
+2025-06-20 23:26:38,499 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:38] Redndı: False
+2025-06-20 23:26:39,501 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:39] Redndı: False
+2025-06-20 23:26:40,503 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:40] Redndı: False
+2025-06-20 23:26:41,505 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:41] Redndı: False
+2025-06-20 23:26:42,507 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:42] Redndı: False
+2025-06-20 23:26:43,509 - map_video - DEBUG - [mapping_recorder.main:114] - [23:26:43] Redndı: True
+2025-06-20 23:26:44,511 - map_video - DEBUG - [mapping_recorder.main:125] - [23:26:44] Kayıt başlatılıyor.
+2025-06-20 23:26:45,049 - map_video - DEBUG - [mapping_recorder.main:140] - [20250620_232645] Kayıt başladı → video_20250620_232645.mp4
+2025-06-20 23:26:50,155 - map_video - DEBUG - [mapping_recorder.main:144] - [23:26:50] Kayıt durduruluyor ve çıkılıyor.

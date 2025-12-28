@@ -1,0 +1,56 @@
+2025-06-20 20:46:50,777 - Coord_Finder - DEBUG - === PRODUCTION MODE ===
+2025-06-20 20:46:50,779 - Coord_Finder - DEBUG - Redis üzerinden ip_done parametresinin 'True' olmasını bekliyorum...
+2025-06-20 22:06:59,097 - Coord_Finder - DEBUG - ip_done 'True' olarak ayarlandı, production moduna geçiliyor.
+2025-06-20 22:07:01,108 - Coord_Finder - DEBUG - Detection DataFrame (df_results) başarıyla okundu:
+2025-06-20 22:07:01,120 - Coord_Finder - DEBUG - 
+         image   class_name  confidence  center_x  center_y
+0  image_3.jpg    stop sign       0.879       678      1138
+1  image_4.jpg         kite       0.589      2144      1098
+2  image_2.jpg    stop sign       0.572      3892      1477
+3  image_6.jpg         book       0.474      2255      1557
+4  image_1.jpg  sports ball       0.207      3917      1314
+2025-06-20 22:07:01,120 - Coord_Finder - DEBUG - Position DataFrame (df_positions) başarıyla okundu:
+2025-06-20 22:07:01,129 - Coord_Finder - DEBUG - 
+         lat        lon     alt  yaw        image
+0  38.851139 -76.699576  24.935  112  image_1.jpg
+1  38.850980 -76.699664  24.977  111  image_2.jpg
+2  38.850840 -76.699743  24.943  110  image_3.jpg
+3  38.850707 -76.699825  24.967  111  image_4.jpg
+4  38.850558 -76.699896  24.907  111  image_5.jpg
+2025-06-20 22:07:01,142 - Coord_Finder - DEBUG -          image   class_name  confidence  ...        lon     alt  yaw
+0  image_3.jpg    stop sign       0.879  ... -76.699743  24.943  110
+1  image_4.jpg         kite       0.589  ... -76.699825  24.967  111
+2  image_6.jpg         book       0.474  ... -76.699987  24.955  111
+3  image_1.jpg  sports ball       0.207  ... -76.699576  24.935  112
+
+[4 rows x 9 columns]
+2025-06-20 22:07:01,172 - Coord_Finder - DEBUG - CoordinateFinder __init__ fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,172 - Coord_Finder - DEBUG - find_hfov_vfov fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,172 - Coord_Finder - DEBUG - pixel_to_meter fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,172 - Coord_Finder - DEBUG - radian_to_angle fonksiyonu çalıştı.
+2025-06-20 22:07:01,172 - Coord_Finder - DEBUG - calculate_roi_coord_with_line_len fonksiyonu çalıştı.
+2025-06-20 22:07:01,174 - Coord_Finder - DEBUG - location_from_a_point fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,174 - Coord_Finder - DEBUG - roi_geo_coord_finder fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - CoordinateFinder __init__ fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - find_hfov_vfov fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - pixel_to_meter fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - radian_to_angle fonksiyonu çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - calculate_roi_coord_with_line_len fonksiyonu çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - location_from_a_point fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,175 - Coord_Finder - DEBUG - roi_geo_coord_finder fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - CoordinateFinder __init__ fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - find_hfov_vfov fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - pixel_to_meter fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - radian_to_angle fonksiyonu çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - calculate_roi_coord_with_line_len fonksiyonu çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - location_from_a_point fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,176 - Coord_Finder - DEBUG - roi_geo_coord_finder fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,177 - Coord_Finder - DEBUG - CoordinateFinder __init__ fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,177 - Coord_Finder - DEBUG - find_hfov_vfov fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,177 - Coord_Finder - DEBUG - pixel_to_meter fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,177 - Coord_Finder - DEBUG - radian_to_angle fonksiyonu çalıştı.
+2025-06-20 22:07:01,177 - Coord_Finder - DEBUG - calculate_roi_coord_with_line_len fonksiyonu çalıştı.
+2025-06-20 22:07:01,177 - Coord_Finder - DEBUG - location_from_a_point fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,178 - Coord_Finder - DEBUG - roi_geo_coord_finder fonksiyonu başarıyla çalıştı.
+2025-06-20 22:07:01,178 - Coord_Finder - DEBUG - roi_results13.csv dosyası ya mevcut değil ya da zaten boş.
+2025-06-20 22:07:01,180 - Coord_Finder - DEBUG - Hesaplanan ROI Geo Koordinatları 'roi_results13.csv' dosyasına kaydedildi.

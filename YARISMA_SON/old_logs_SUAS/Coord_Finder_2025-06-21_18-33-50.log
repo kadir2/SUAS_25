@@ -1,0 +1,2 @@
+2025-06-21 18:33:24,948 - Coord_Finder - DEBUG - === PRODUCTION MODE ===
+2025-06-21 18:33:26,952 - Coord_Finder - DEBUG - File read error: [Errno 2] No such file or directory: 'detection_file16.csv'

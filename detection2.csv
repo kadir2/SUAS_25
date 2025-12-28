@@ -1,0 +1,39 @@
+image,class_name,confidence,center_x,center_y
+image_3.jpg,sports ball,0.653,103,587
+image_2.jpg,stop sign,0.317,2126,1142
+image_4.jpg,traffic light,0.27,2143,1119
+image_6.jpg,sports ball,0.197,1178,817
+image_1.jpg,scissors,0.187,2190,1123
+image_1.jpg,tennis racket,0.159,2190,1123
+image_2.jpg,tennis racket,0.147,74,656
+image_6.jpg,airplane,0.132,2305,1109
+image_6.jpg,laptop,0.1,2305,1110
+image_4.jpg,sports ball,0.078,1067,1264
+image_5.jpg,tennis racket,0.065,2145,440
+image_6.jpg,cell phone,0.06,2205,1194
+image_6.jpg,person,0.051,1249,254
+image_5.jpg,person,0.046,2429,545
+image_6.jpg,toothbrush,0.039,1143,923
+image_5.jpg,sports ball,0.039,3181,651
+image_6.jpg,tennis racket,0.037,1314,71
+image_4.jpg,tennis racket,0.034,3228,1292
+image_3.jpg,person,0.032,104,662
+image_6.jpg,dining table,0.03,639,463
+image_2.jpg,person,0.026,2126,1141
+image_4.jpg,kite,0.021,3360,638
+image_2.jpg,baseball bat,0.021,75,487
+image_5.jpg,sink,0.021,632,855
+image_5.jpg,umbrella,0.02,638,859
+image_5.jpg,bowl,0.019,631,858
+image_3.jpg,frisbee,0.019,1483,560
+image_4.jpg,dining table,0.016,638,791
+image_2.jpg,car,0.016,3200,1432
+image_3.jpg,kite,0.015,1534,372
+image_1.jpg,sports ball,0.014,2787,1636
+image_1.jpg,wine glass,0.013,2191,1120
+image_2.jpg,sports ball,0.012,3752,550
+image_2.jpg,dining table,0.011,3197,1432
+image_5.jpg,car,0.011,639,852
+image_6.jpg,baseball bat,0.011,2505,1013
+image_6.jpg,frisbee,0.01,1319,37
+image_6.jpg,car,0.01,2601,1104

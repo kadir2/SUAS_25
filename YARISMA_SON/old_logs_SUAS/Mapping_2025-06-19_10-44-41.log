@@ -1,0 +1,12 @@
+2025-06-14 23:19:27,573 - Mapping - DEBUG - Waiting for 'start_mapping' signal...
+2025-06-14 23:19:27,577 - Mapping - DEBUG - Monitoring directory: images8 for mapping images...
+2025-06-14 23:19:54,622 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_3.jpg (1/6)
+2025-06-14 23:19:54,622 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_4.jpg (2/6)
+2025-06-14 23:19:54,622 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_5.jpg (3/6)
+2025-06-14 23:19:54,622 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_6.jpg (4/6)
+2025-06-14 23:20:10,150 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_1 (copy).jpg (5/6)
+2025-06-14 23:20:10,150 - Mapping - DEBUG - Yeni mapping resmi bulundu: images8/image_2 (copy).jpg (6/6)
+2025-06-14 23:20:10,651 - Mapping - DEBUG - Tüm mapping resimleri toplandı.
+2025-06-14 23:20:22,624 - Mapping - DEBUG - Yatay stitching başarısız, status: 3
+2025-06-14 23:20:22,865 - Mapping - DEBUG - Dikey stitching başarısız, status: 3
+2025-06-14 23:20:23,453 - Mapping - DEBUG - Son panorama kaydedildi: mapping_result.jpg
